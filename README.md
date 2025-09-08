@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2018 (and fixing some too 😅)  <br>📚 I'm currently learning about Artificial Intelligence and Cloud technologies  <br>🎯 Goals: Grow as a backend developer and explore innovative tech solutions  <br>🎲 Fun fact: I’m also a guitarist 🎸 who loves mixing code and music</p>
+<p align="left">✨ Coding since 2018 (and always improving 🚀)  <br>📚 I'm currently learning about Artificial Intelligence and Cloud technologies  <br>🎯 Goals: Grow as a backend developer and explore innovative tech solutions  <br>🎲 Fun fact: I’m also a guitarist 🎸 who loves mixing code and music</p>
 
 ###
 
